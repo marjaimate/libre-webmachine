@@ -1,0 +1,20 @@
+havana:
+  name: Havana
+  province: Havana
+  population: 2_201_610
+santiago_de_cuba:
+  name: Santiago de Cuba
+  province: Santiago de Cuba
+  population: 423_392
+camaguey:
+  name: Camagüey
+  province: Camagüey
+  population: 301_574
+holguin:
+  name: Holguín
+  province: Holguín
+  population: 269_618
+santa_clara:
+  name: Santa Clara
+  province: Villa Clara
+  population: 210_220
